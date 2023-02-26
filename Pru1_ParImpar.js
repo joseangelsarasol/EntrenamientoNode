@@ -10,6 +10,7 @@ class operations{
 
     this.op1;
     this.op2;
+    globalThis;
 
 return op1 * op2;
 
